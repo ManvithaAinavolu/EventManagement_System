@@ -1,0 +1,714 @@
+2025-07-24 17:32:25 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 17:32:25 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 17:32:33 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 17:32:33 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 17:32:41 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 17:33:03 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 17:34:39 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 17:34:39 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 17:34:43 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 17:34:43 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 17:34:46 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 17:34:46 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 17:34:58 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 17:34:59 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 17:34:59 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 17:35:07 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 17:35:07 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 17:35:10 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 17:35:10 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 17:35:16 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 17:35:17 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 17:35:17 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 17:35:19 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 17:35:19 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 17:35:27 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 17:35:27 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 17:35:33 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 17:35:33 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 17:35:33 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 17:35:39 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 17:35:39 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 17:35:43 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 17:35:43 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 17:35:58 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 17:35:58 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 17:35:58 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 17:36:01 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 17:36:01 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 17:36:09 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 17:36:09 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 17:36:24 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 17:36:24 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 17:36:24 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 17:36:25 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 17:36:25 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 17:36:35 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 17:36:35 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 17:36:39 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 17:36:39 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 17:36:39 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 17:36:46 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 17:36:46 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 17:36:50 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 17:36:50 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 17:36:50 [main] INFO  BaseClass.libraryClass - reading excel data
+2025-07-24 17:36:55 [main] INFO  BaseClass.libraryClass - accesed row
+2025-07-24 17:36:59 [main] INFO  BaseClass.libraryClass - filled the form
+2025-07-24 17:37:02 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 17:37:29 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 17:37:29 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 17:37:32 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 17:37:32 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 17:37:38 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 17:37:38 [main] INFO  BaseClass.libraryClass - Started Contact feature:
+2025-07-24 17:37:46 [main] INFO  BaseClass.libraryClass - Data entered
+2025-07-24 17:37:48 [main] INFO  BaseClass.libraryClass - Message sent
+2025-07-24 17:37:51 [main] INFO  BaseClass.libraryClass - Your message has been sent !
+2025-07-24 17:37:51 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 17:37:52 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 17:37:52 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 17:37:57 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 17:37:57 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 17:38:02 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 17:38:02 [main] INFO  BaseClass.libraryClass - Started Contact feature:
+2025-07-24 17:38:09 [main] INFO  BaseClass.libraryClass - Data entered
+2025-07-24 17:38:11 [main] INFO  BaseClass.libraryClass - Message sent
+2025-07-24 17:38:14 [main] INFO  BaseClass.libraryClass - Your message has been sent !
+2025-07-24 17:38:15 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 17:38:15 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 17:38:15 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 17:38:18 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 17:38:18 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 17:38:22 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 17:38:22 [main] INFO  BaseClass.libraryClass - Started Contact feature:
+2025-07-24 17:38:28 [main] INFO  BaseClass.libraryClass - Data entered without message
+2025-07-24 17:38:30 [main] INFO  BaseClass.libraryClass - Message sent
+2025-07-24 17:38:30 [main] INFO  BaseClass.libraryClass - Error Message: Your message is required
+2025-07-24 17:38:31 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:34:03 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:34:03 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:34:16 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:34:16 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:34:20 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:34:20 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:34:30 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:34:31 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:34:31 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:34:33 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:34:33 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:34:38 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:34:38 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:34:48 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:34:48 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:34:48 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:34:53 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:34:53 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:34:58 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:34:58 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:35:04 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:35:04 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:35:04 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:35:11 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:35:11 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:35:15 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:35:15 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:35:31 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:35:31 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:35:31 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:35:35 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:35:35 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:35:40 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:35:40 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:35:56 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:35:56 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:35:56 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:35:59 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:35:59 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:36:03 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:36:03 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:36:09 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:36:09 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:36:09 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:36:11 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:36:11 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:36:14 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:36:14 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:36:14 [main] INFO  BaseClass.libraryClass - reading excel data
+2025-07-24 21:36:18 [main] INFO  BaseClass.libraryClass - accesed row
+2025-07-24 21:36:24 [main] INFO  BaseClass.libraryClass - filled the form
+2025-07-24 21:36:28 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:37:18 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:37:18 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:37:21 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:37:21 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:37:26 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:37:27 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:37:35 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:37:36 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:37:36 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:37:38 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:37:38 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:37:43 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:37:43 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:37:51 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:37:51 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:37:51 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:37:53 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:37:53 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:37:54 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:37:54 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:38:03 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:38:03 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:38:03 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:38:04 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:38:04 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:38:05 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:38:05 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:38:24 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:38:24 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:38:24 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:38:25 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:38:25 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:38:27 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:38:27 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:38:47 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:38:47 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:38:47 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:38:48 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:38:48 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:38:53 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:38:53 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:39:00 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:39:00 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:39:00 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:39:01 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:39:01 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:39:05 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:39:05 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:39:05 [main] INFO  BaseClass.libraryClass - reading excel data
+2025-07-24 21:39:08 [main] INFO  BaseClass.libraryClass - accesed row
+2025-07-24 21:39:14 [main] INFO  BaseClass.libraryClass - filled the form
+2025-07-24 21:39:17 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:40:23 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:40:23 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:40:26 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:40:26 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:40:30 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:40:30 [main] INFO  BaseClass.libraryClass - Started Contact feature:
+2025-07-24 21:40:37 [main] INFO  BaseClass.libraryClass - Data entered
+2025-07-24 21:40:40 [main] INFO  BaseClass.libraryClass - Message sent
+2025-07-24 21:40:43 [main] INFO  BaseClass.libraryClass - Your message has been sent !
+2025-07-24 21:40:44 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:40:45 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:40:45 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:40:46 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:40:46 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:40:47 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:40:47 [main] INFO  BaseClass.libraryClass - Started Contact feature:
+2025-07-24 21:40:55 [main] INFO  BaseClass.libraryClass - Data entered
+2025-07-24 21:40:58 [main] INFO  BaseClass.libraryClass - Message sent
+2025-07-24 21:41:01 [main] INFO  BaseClass.libraryClass - Your message has been sent !
+2025-07-24 21:41:02 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:41:03 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:41:03 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:41:05 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:41:05 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:41:06 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:41:06 [main] INFO  BaseClass.libraryClass - Started Contact feature:
+2025-07-24 21:41:13 [main] INFO  BaseClass.libraryClass - Data entered without message
+2025-07-24 21:41:15 [main] INFO  BaseClass.libraryClass - Message sent
+2025-07-24 21:41:15 [main] INFO  BaseClass.libraryClass - Error Message: Your message is required
+2025-07-24 21:41:16 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:49:27 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:49:27 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:49:30 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:49:30 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:49:37 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:49:37 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:49:46 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:49:47 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:49:47 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:49:49 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:49:49 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:49:50 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:49:50 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:50:00 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:50:00 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:50:00 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:50:03 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:50:03 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:50:08 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:50:08 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:50:14 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:50:14 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:50:14 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:50:15 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:50:15 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:50:20 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:50:20 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:50:36 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:50:36 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:50:36 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:50:38 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:50:38 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:50:45 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:50:45 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:51:00 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:51:00 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:51:00 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:51:03 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:51:03 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:51:07 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:51:07 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:51:12 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:51:12 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:51:12 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:51:13 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:51:13 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:51:14 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:51:14 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:51:14 [main] INFO  BaseClass.libraryClass - reading excel data
+2025-07-24 21:51:17 [main] INFO  BaseClass.libraryClass - accesed row
+2025-07-24 21:51:22 [main] INFO  BaseClass.libraryClass - filled the form
+2025-07-24 21:51:26 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:51:26 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:51:26 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:51:27 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:51:27 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:51:34 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:51:34 [main] INFO  BaseClass.libraryClass - Started Contact feature:
+2025-07-24 21:51:41 [main] INFO  BaseClass.libraryClass - Data entered
+2025-07-24 21:51:43 [main] INFO  BaseClass.libraryClass - Message sent
+2025-07-24 21:51:47 [main] INFO  BaseClass.libraryClass - Your message has been sent !
+2025-07-24 21:51:47 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:51:47 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:51:47 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:51:51 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:51:51 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:51:53 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:51:53 [main] INFO  BaseClass.libraryClass - Started Contact feature:
+2025-07-24 21:52:00 [main] INFO  BaseClass.libraryClass - Data entered
+2025-07-24 21:52:02 [main] INFO  BaseClass.libraryClass - Message sent
+2025-07-24 21:52:06 [main] INFO  BaseClass.libraryClass - Your message has been sent !
+2025-07-24 21:52:06 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:52:06 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:52:06 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:52:13 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:52:13 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:52:17 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:52:17 [main] INFO  BaseClass.libraryClass - Started Contact feature:
+2025-07-24 21:52:24 [main] INFO  BaseClass.libraryClass - Data entered without message
+2025-07-24 21:52:26 [main] INFO  BaseClass.libraryClass - Message sent
+2025-07-24 21:52:26 [main] INFO  BaseClass.libraryClass - Error Message: Your message is required
+2025-07-24 21:52:27 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:53:26 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:53:26 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:53:30 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:53:30 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:53:30 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:53:30 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:53:40 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:53:41 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:53:41 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:53:43 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:53:43 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:53:47 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:53:47 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:54:00 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:54:00 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:54:00 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:54:01 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:54:01 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:54:06 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:54:06 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:54:12 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:54:12 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:54:12 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:54:13 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:54:13 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:54:19 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:54:19 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:54:35 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:54:35 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:54:35 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:54:38 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:54:38 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:54:39 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:54:39 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:54:57 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:54:58 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:54:58 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:55:02 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:55:02 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:55:04 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:55:04 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:55:10 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:55:10 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:55:10 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:55:11 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:55:11 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:55:17 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:55:17 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-24 21:55:17 [main] INFO  BaseClass.libraryClass - reading excel data
+2025-07-24 21:55:19 [main] INFO  BaseClass.libraryClass - accesed row
+2025-07-24 21:55:23 [main] INFO  BaseClass.libraryClass - filled the form
+2025-07-24 21:55:28 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:55:28 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:55:28 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:55:30 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:55:30 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:55:34 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:55:34 [main] INFO  BaseClass.libraryClass - Started Contact feature:
+2025-07-24 21:55:41 [main] INFO  BaseClass.libraryClass - Data entered
+2025-07-24 21:55:43 [main] INFO  BaseClass.libraryClass - Message sent
+2025-07-24 21:55:47 [main] INFO  BaseClass.libraryClass - Your message has been sent !
+2025-07-24 21:55:48 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:55:48 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:55:48 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:55:49 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:55:49 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:55:50 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:55:50 [main] INFO  BaseClass.libraryClass - Started Contact feature:
+2025-07-24 21:55:57 [main] INFO  BaseClass.libraryClass - Data entered
+2025-07-24 21:55:59 [main] INFO  BaseClass.libraryClass - Message sent
+2025-07-24 21:56:03 [main] INFO  BaseClass.libraryClass - Your message has been sent !
+2025-07-24 21:56:03 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-24 21:56:03 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-24 21:56:03 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-24 21:56:05 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-24 21:56:05 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-24 21:56:10 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-24 21:56:10 [main] INFO  BaseClass.libraryClass - Started Contact feature:
+2025-07-24 21:56:17 [main] INFO  BaseClass.libraryClass - Data entered without message
+2025-07-24 21:56:19 [main] INFO  BaseClass.libraryClass - Message sent
+2025-07-24 21:56:20 [main] INFO  BaseClass.libraryClass - Error Message: Your message is required
+2025-07-24 21:56:21 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 10:36:29 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 10:36:29 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 10:37:03 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 10:37:03 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 10:37:04 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 10:37:04 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 10:37:14 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 10:37:15 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 10:37:15 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 10:37:20 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 10:37:20 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 10:37:29 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 10:37:29 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 10:37:37 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 10:37:38 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 10:37:38 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 10:37:39 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 10:37:39 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 10:37:45 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 10:37:45 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 10:37:49 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 10:37:49 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 10:37:49 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 10:37:54 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 10:37:54 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 10:37:57 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 10:37:57 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 10:38:12 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 10:38:12 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 10:38:12 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 10:38:19 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 10:38:19 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 10:38:23 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 10:38:23 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 10:38:39 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 10:38:39 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 10:38:39 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 10:38:45 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 10:38:45 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 10:38:48 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 10:38:48 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 10:38:53 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 10:38:53 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 10:38:53 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 10:38:57 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 10:38:57 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 10:39:03 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 10:39:03 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 10:39:03 [main] INFO  BaseClass.libraryClass - reading excel data
+2025-07-25 10:39:09 [main] INFO  BaseClass.libraryClass - accesed row
+2025-07-25 10:39:13 [main] INFO  BaseClass.libraryClass - filled the form
+2025-07-25 10:39:17 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 10:39:17 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 10:39:17 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 10:39:21 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 10:39:21 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 10:39:25 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 10:39:25 [main] INFO  BaseClass.libraryClass - Started Contact feature:
+2025-07-25 10:39:32 [main] INFO  BaseClass.libraryClass - Data entered
+2025-07-25 10:39:34 [main] INFO  BaseClass.libraryClass - Message sent
+2025-07-25 10:39:37 [main] INFO  BaseClass.libraryClass - Your message has been sent !
+2025-07-25 10:39:37 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 10:39:37 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 10:39:37 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 10:39:40 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 10:39:40 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 10:39:47 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 10:39:47 [main] INFO  BaseClass.libraryClass - Started Contact feature:
+2025-07-25 10:39:54 [main] INFO  BaseClass.libraryClass - Data entered
+2025-07-25 10:39:56 [main] INFO  BaseClass.libraryClass - Message sent
+2025-07-25 10:39:59 [main] INFO  BaseClass.libraryClass - Your message has been sent !
+2025-07-25 10:40:00 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 10:40:00 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 10:40:00 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 10:40:02 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 10:40:02 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 10:40:09 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 10:40:09 [main] INFO  BaseClass.libraryClass - Started Contact feature:
+2025-07-25 10:40:16 [main] INFO  BaseClass.libraryClass - Data entered without message
+2025-07-25 10:40:18 [main] INFO  BaseClass.libraryClass - Message sent
+2025-07-25 10:40:18 [main] INFO  BaseClass.libraryClass - Error Message: Your message is required
+2025-07-25 10:40:18 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 10:52:07 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 10:52:07 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 10:52:14 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 10:52:14 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 10:52:18 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 10:52:18 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 10:52:29 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 10:52:29 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 10:52:29 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 10:52:35 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 10:52:35 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 10:52:42 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 10:52:42 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 10:52:49 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 10:52:49 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 10:52:49 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 10:52:51 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 10:52:51 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 10:52:56 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 10:52:56 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 10:53:01 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 10:53:01 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 10:53:01 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 10:53:03 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 10:53:03 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 10:53:12 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 10:53:12 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 10:53:26 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 10:53:26 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 10:53:26 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 10:53:28 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 10:53:28 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 10:53:33 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 10:53:33 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 10:53:52 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 10:53:52 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 10:53:52 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 10:53:53 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 10:53:53 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 10:54:02 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 10:54:02 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 10:54:06 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 10:54:06 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 10:54:06 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 10:54:08 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 10:54:08 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 10:54:10 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 10:54:10 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 10:54:10 [main] INFO  BaseClass.libraryClass - reading excel data
+2025-07-25 10:54:15 [main] INFO  BaseClass.libraryClass - accesed row
+2025-07-25 10:54:20 [main] INFO  BaseClass.libraryClass - filled the form
+2025-07-25 10:54:24 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 10:54:24 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 10:54:24 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 10:54:26 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 10:54:26 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 10:54:36 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 10:54:36 [main] INFO  BaseClass.libraryClass - Started Contact feature:
+2025-07-25 10:54:43 [main] INFO  BaseClass.libraryClass - Data entered
+2025-07-25 10:54:45 [main] INFO  BaseClass.libraryClass - Message sent
+2025-07-25 10:54:49 [main] INFO  BaseClass.libraryClass - Your message has been sent !
+2025-07-25 10:54:49 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 10:54:49 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 10:54:49 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 10:54:50 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 10:54:50 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 10:54:54 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 10:54:54 [main] INFO  BaseClass.libraryClass - Started Contact feature:
+2025-07-25 10:55:01 [main] INFO  BaseClass.libraryClass - Data entered
+2025-07-25 10:55:03 [main] INFO  BaseClass.libraryClass - Message sent
+2025-07-25 10:55:07 [main] INFO  BaseClass.libraryClass - Your message has been sent !
+2025-07-25 10:55:08 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 10:55:08 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 10:55:08 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 10:55:09 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 10:55:09 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 10:55:17 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 10:55:17 [main] INFO  BaseClass.libraryClass - Started Contact feature:
+2025-07-25 10:55:24 [main] INFO  BaseClass.libraryClass - Data entered without message
+2025-07-25 10:55:26 [main] INFO  BaseClass.libraryClass - Message sent
+2025-07-25 10:55:26 [main] INFO  BaseClass.libraryClass - Error Message: Your message is required
+2025-07-25 10:55:27 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 11:01:14 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 11:01:14 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 11:01:30 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 11:01:30 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 11:01:35 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 11:01:35 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 11:01:44 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 11:01:45 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 11:01:45 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 11:01:59 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 11:01:59 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 11:02:01 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 11:02:01 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 11:02:10 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 11:02:10 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 11:02:10 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 11:02:12 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 11:02:12 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 11:02:21 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 11:02:21 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 11:02:25 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 11:02:25 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 11:02:25 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 11:02:31 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 11:02:31 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 11:02:34 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 11:02:34 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 11:02:49 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 11:02:49 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 11:02:49 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 11:02:55 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 11:02:55 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 11:03:00 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 11:03:00 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 11:03:14 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 11:03:14 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 11:03:14 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 11:03:17 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 11:03:17 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 11:03:27 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 11:03:27 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 11:03:32 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 11:03:32 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 11:03:32 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 11:03:35 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 11:03:35 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 11:03:38 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 11:03:38 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 11:03:38 [main] INFO  BaseClass.libraryClass - reading excel data
+2025-07-25 11:03:41 [main] INFO  BaseClass.libraryClass - accesed row
+2025-07-25 11:03:46 [main] INFO  BaseClass.libraryClass - filled the form
+2025-07-25 11:03:49 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 11:03:49 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 11:03:49 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 11:03:52 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 11:03:52 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 11:04:00 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 11:04:00 [main] INFO  BaseClass.libraryClass - Started Contact feature:
+2025-07-25 11:04:07 [main] INFO  BaseClass.libraryClass - Data entered
+2025-07-25 11:04:09 [main] INFO  BaseClass.libraryClass - Message sent
+2025-07-25 11:04:12 [main] INFO  BaseClass.libraryClass - Your message has been sent !
+2025-07-25 11:04:13 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 11:04:13 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 11:04:13 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 11:04:14 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 11:04:14 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 11:04:25 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 11:04:25 [main] INFO  BaseClass.libraryClass - Started Contact feature:
+2025-07-25 11:04:31 [main] INFO  BaseClass.libraryClass - Data entered
+2025-07-25 11:04:33 [main] INFO  BaseClass.libraryClass - Message sent
+2025-07-25 11:04:37 [main] INFO  BaseClass.libraryClass - Your message has been sent !
+2025-07-25 11:04:37 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 11:04:37 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 11:04:37 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 11:04:40 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 11:04:40 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 11:04:45 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 11:04:45 [main] INFO  BaseClass.libraryClass - Started Contact feature:
+2025-07-25 11:04:51 [main] INFO  BaseClass.libraryClass - Data entered without message
+2025-07-25 11:04:53 [main] INFO  BaseClass.libraryClass - Message sent
+2025-07-25 11:04:53 [main] INFO  BaseClass.libraryClass - Error Message: Your message is required
+2025-07-25 11:04:54 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 11:10:47 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 11:10:47 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 11:10:51 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 11:10:51 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 11:10:59 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 11:11:00 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 11:11:17 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 11:11:18 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 11:11:18 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 11:11:21 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 11:11:21 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 11:11:28 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 11:11:28 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 11:11:35 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 11:11:35 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 11:11:35 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 11:11:37 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 11:11:37 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 11:11:41 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 11:11:41 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 11:11:48 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 11:11:49 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 11:11:49 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 11:11:50 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 11:11:50 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 11:11:53 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 11:11:53 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 11:12:08 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 11:12:08 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 11:12:08 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 11:12:10 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 11:12:10 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 11:12:13 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 11:12:13 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 11:12:30 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 11:12:30 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 11:12:30 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 11:12:31 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 11:12:31 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 11:12:34 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 11:12:34 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 11:12:43 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 11:12:43 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 11:12:43 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 11:12:48 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 11:12:48 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 11:12:51 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 11:12:51 [main] INFO  BaseClass.libraryClass - User is on Event Management Page
+2025-07-25 11:12:51 [main] INFO  BaseClass.libraryClass - reading excel data
+2025-07-25 11:12:56 [main] INFO  BaseClass.libraryClass - accesed row
+2025-07-25 11:12:59 [main] INFO  BaseClass.libraryClass - filled the form
+2025-07-25 11:13:03 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 11:13:03 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 11:13:03 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 11:13:07 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 11:13:07 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 11:13:11 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 11:13:11 [main] INFO  BaseClass.libraryClass - Started Contact feature:
+2025-07-25 11:13:18 [main] INFO  BaseClass.libraryClass - Data entered
+2025-07-25 11:13:20 [main] INFO  BaseClass.libraryClass - Message sent
+2025-07-25 11:13:23 [main] INFO  BaseClass.libraryClass - Your message has been sent !
+2025-07-25 11:13:24 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 11:13:24 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 11:13:24 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 11:13:29 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 11:13:29 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 11:13:34 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 11:13:34 [main] INFO  BaseClass.libraryClass - Started Contact feature:
+2025-07-25 11:13:40 [main] INFO  BaseClass.libraryClass - Data entered
+2025-07-25 11:13:43 [main] INFO  BaseClass.libraryClass - Message sent
+2025-07-25 11:13:46 [main] INFO  BaseClass.libraryClass - Your message has been sent !
+2025-07-25 11:13:47 [main] INFO  BaseClass.libraryClass - Browser closed successfully.
+2025-07-25 11:13:47 [main] INFO  BaseClass.libraryClass - Configuration file loaded successfully.
+2025-07-25 11:13:47 [main] INFO  BaseClass.libraryClass - Selected browser from config: chrome
+2025-07-25 11:13:50 [main] INFO  BaseClass.libraryClass - Browser window maximized.
+2025-07-25 11:13:50 [main] INFO  BaseClass.libraryClass - Implicit wait set to: 10 seconds.
+2025-07-25 11:13:58 [main] INFO  BaseClass.libraryClass - Navigated to URL: https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+2025-07-25 11:13:58 [main] INFO  BaseClass.libraryClass - Started Contact feature:
+2025-07-25 11:14:05 [main] INFO  BaseClass.libraryClass - Data entered without message
+2025-07-25 11:14:07 [main] INFO  BaseClass.libraryClass - Message sent
+2025-07-25 11:14:07 [main] INFO  BaseClass.libraryClass - Error Message: Your message is required
+2025-07-25 11:14:07 [main] INFO  BaseClass.libraryClass - Browser closed successfully.

@@ -1,0 +1,3 @@
+browser=chrome
+url=https://webapps.tekstac.com/SeleniumApp1/EventManagement/index.html
+implicitWait=10
